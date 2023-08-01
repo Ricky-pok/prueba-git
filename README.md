@@ -4,3 +4,4 @@ xD
 aqui sigo probando la vacanidad de git
 hola 
 vamos a probar hacer pull aqui 
+hola gente probando x3 
